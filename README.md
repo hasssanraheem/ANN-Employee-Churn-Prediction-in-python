@@ -1,52 +1,26 @@
 # ANN-Employee-Churn-Prediction-in-python
 Employee Retention Prediction using ANN
 
-This project implements an Artificial Neural Network (ANN) to predict whether an employee is likely to leave a company. By analyzing various employee features, the model helps management take proactive steps to improve retention, such as offering personalized incentives or benefits.
+Designed and implemented an Artificial Neural Network (ANN) model to predict employee attrition, enabling HR teams to take proactive retention measures. By analyzing features such as age, department, salary, tenure, and performance ratings, the model provides actionable insights on which employees are most at risk of leaving.
 
-Project Features
+Key Highlights:
 
-Predicts employee attrition based on multiple features
+Built and trained an ANN classification model in Python to predict employee churn with high accuracy.
 
-Helps identify employees at risk of leaving
+Preprocessed structured HR datasets to extract meaningful features and handle class imbalance.
 
-Enables companies to take proactive measures to retain staff
+Captured complex relationships between employee attributes through multiple hidden layers.
 
-Implemented using an Artificial Neural Network (ANN)
+Generated a probability score for attrition risk, supporting data-driven retention strategies.
 
-Clean and commented Python code for easy understanding
+Evaluated model performance using standard classification metrics and optimized hyperparameters.
 
-Repository Structure
+Delivered clean, well-documented code for ease of understanding and reproducibility.
 
-Employee-Retention-ANN-Prediction/
+Impact / Learning Outcomes:
 
-Dataset/ – Contains employee data used for training and testing
+Demonstrated end-to-end workflow of ANN-based predictive modeling on real-world HR data.
 
-ANN_Model.py – Python script implementing the neural network
+Enhanced skills in data preprocessing, feature engineering, and deep learning for business decision-making.
 
-README.md – Project overview and instructions
-
-Dataset
-
-Contains employee-related features such as age, department, salary, years at company, performance ratings, and other relevant attributes
-
-Used to train and test the ANN model to predict attrition
-
-Features of the ANN Model
-
-Input layer processes all employee features
-
-Hidden layers capture complex relationships in the data
-
-Output layer predicts probability of employee leaving or staying
-
-Supports evaluation metrics to measure model performance
-
-Learning Benefits
-
-Understand how to preprocess structured datasets for ANN
-
-Learn to implement ANN models for classification tasks
-
-Analyze employee data to make actionable business decisions
-
-Gain experience in predicting real-world HR outcomes using AI
+Gained experience integrating AI models into actionable insights for workforce management.
